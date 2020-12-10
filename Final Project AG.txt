@@ -1,0 +1,29 @@
+#Githubg/Git tutorial 
+
+### Table of Contents
+1. [Github](#Github)
+2. [Git](#Git)
+3. [Getting Help](#Getting Help)
+
+
+
+##Github
+**Github**- One of the most popular code hosting platform currently, which allows one to host their projects and share them with other people. Github lets us collaborate our projects with one another.This platform is important because it lets people work together or share projects without being near eachother or talk tot hem in person. Great thing about Github is it supports all coding languages and file types such as images, videos and text files.Check out the website and get started on creating your own account!
+
+[Github](https://github.com/)
+
+
+##Git 
+**Git**-Git is a distributed version control system. Now what this "control system" means is git tracks the changes you make to files, so you can have a record of what things you did in case you wanted to go back to something in your work. Git and Github interwine with eachother and will become a useful platform for coders like you! Download Git and get started!macOS comes with git installed, anyone who uses Windows will have to download it.
+
+[Git](https://git-scm.com/downloads)
+
+
+##Getting Help
+Here are some videos that I am sure will help you.
+Github & Git video
+1.(https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=emb_logo)
+Github Video
+2.(https://www.youtube.com/watch?v=x0EYpi38Yp4)
+Git Video
+3.(https://www.youtube.com/watch?v=USjZcfj8yxE)
