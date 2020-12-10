@@ -1,10 +1,10 @@
 Github & Git Tutorial 
 
-Author:Aaron Germeroth
+Author: Aaron Germeroth
 
-The purpose of this tutorial is to explain Github and Git to new users whohave never senn it beofre.
+The purpose of this tutorial is to explain Github and Git to new users who have never seen it before.
 
-The traget audience is high schoolers or and new beginners to coding and computer work
+The traget audience is high schoolers or and new beginners to coding and computer work.
 
 
 
